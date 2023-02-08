@@ -44,6 +44,14 @@
       "lastname": "tuyen",
       "age": 32,
       "id": 6
+    },
+    {
+      "email": "123@mail.com",
+      "password": "$2a$10$fL3.4IzHcqY3cEfNEvFAvOkLqvVXKasUt0lC0IyQVFsc9LqBZSzv.",
+      "firstname": "cao",
+      "lastname": "tuyen",
+      "age": 32,
+      "id": 7
     }
   ],
   "products": [

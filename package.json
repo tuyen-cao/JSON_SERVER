@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "serve-json": "json-server --watch db.json --port 4500"
+    "serve-json": "json-server --watch db.json --port 4500",
+    "serve-json-auth": "json-server-auth db.json --port 4500"
   },
   "devDependencies": {
-    "json-server": "^0.17.1"
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0"
   }
 }

@@ -1,5 +1,35 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$zhCi6CXLl5fBj14WFGy6G.3D3WVj3bgOePLKr/WG7Ep4lO4N8A9kW",
+      "id": 1
+    },
+    {
+      "email": "olivier1@mail.com",
+      "password": "$2a$10$fQqMhSEyyaprSe313R6JaeCKs0xlw62D6GWQyye4lSuXgzXPHHUSi",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 2
+    },
+    {
+      "email": "xxx555@mail.com",
+      "password": "$2a$10$gTsDVrxzg9grkt1Yp485xuxCXNk.0BI9vjIWh7ymkds.Wh/XtH8E6",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 3
+    },
+    {
+      "email": "tuyen@mail.com",
+      "password": "$2a$10$/1bxA3oGJ/e6DjV.qFjLMOZGDRMnVODPfpC/hYV6Gs.xuaq/XDNCm",
+      "firstname": "cao",
+      "lastname": "tuyen",
+      "age": 32,
+      "id": 4
+    }
+  ],
   "products": [
     {
       "id": 1,

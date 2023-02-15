@@ -4,7 +4,6 @@
     "serve-json-auth": "json-server-auth db.json --port 4500"
   },
   "dependencies": {
-    "json-server": "^0.17.1",
-    "json-server-auth": "^2.1.0"
+    "json-server": "^0.17.1"
   }
 }

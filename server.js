@@ -17,7 +17,7 @@ server.db = router.db;
 server.use(middlewares);
 server.use(auth);
 server.use(rules)
-server.use(router);
+//server.use(router);
 
 server.listen(3500, () => {
   console.log('JSON Server is running');

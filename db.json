@@ -11,6 +11,14 @@
       "email": "caokimtuyen1722@gmail.com",
       "password": "111111",
       "id": 2
+    },
+    {
+      "email": "a@a_1.com",
+      "password": "$2a$10$JDlgf.mCPqeMN2GuSrV6U.0HZPDTOzrHjJ/UyM3zhTDOxOUC6zPg.",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 3
     }
   ],
   "products": [

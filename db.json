@@ -19,6 +19,14 @@
       "lastname": "Monge",
       "age": 32,
       "id": 3
+    },
+    {
+      "email": "a@a1.com",
+      "password": "$2a$10$/O5ywUk3m91GszUurts6y.0rJFrFrIYWhhAAKg9HYF0oenfphIUkG",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 4
     }
   ],
   "products": [

@@ -1,57 +1,11 @@
 {
   "users": [
     {
-      "email": "olivier@mail.com",
-      "password": "$2a$10$zhCi6CXLl5fBj14WFGy6G.3D3WVj3bgOePLKr/WG7Ep4lO4N8A9kW",
+      "email": "caokimtuyen1722@gmail.com",
+      "password": "$2a$10$QZnHeCXpLqxjCPPgFTtpmubpJWc/BgqIbtlm6G8y.KX1rtxo3PQ4W",
+      "displayName": "Display name",
+      "username": "username",
       "id": 1
-    },
-    {
-      "email": "olivier1@mail.com",
-      "password": "$2a$10$fQqMhSEyyaprSe313R6JaeCKs0xlw62D6GWQyye4lSuXgzXPHHUSi",
-      "firstname": "Olivier",
-      "lastname": "Monge",
-      "age": 32,
-      "id": 2
-    },
-    {
-      "email": "xxx555@mail.com",
-      "password": "$2a$10$gTsDVrxzg9grkt1Yp485xuxCXNk.0BI9vjIWh7ymkds.Wh/XtH8E6",
-      "firstname": "Olivier",
-      "lastname": "Monge",
-      "age": 32,
-      "id": 3
-    },
-    {
-      "email": "tuyen@mail.com",
-      "password": "$2a$10$/1bxA3oGJ/e6DjV.qFjLMOZGDRMnVODPfpC/hYV6Gs.xuaq/XDNCm",
-      "firstname": "cao",
-      "lastname": "tuyen",
-      "age": 32,
-      "id": 4
-    },
-    {
-      "email": "tuyen1@mail.com",
-      "password": "$2a$10$IDKC712gFBbxfG7oaxV7z.VLhK4wHNBFvDjVZ2ditV9WBtkkI9pPi",
-      "firstname": "cao",
-      "lastname": "tuyen",
-      "age": 32,
-      "id": 5
-    },
-    {
-      "email": "tuyen1111@mail.com",
-      "password": "$2a$10$d4pyq8bzrXEm7mgwz7HJX.xmigKW0wVtl4p1F8.86gN0Qk6JVtto6",
-      "firstname": "cao",
-      "lastname": "tuyen",
-      "age": 32,
-      "id": 6
-    },
-    {
-      "email": "123@mail.com",
-      "password": "$2a$10$fL3.4IzHcqY3cEfNEvFAvOkLqvVXKasUt0lC0IyQVFsc9LqBZSzv.",
-      "firstname": "cao",
-      "lastname": "tuyen",
-      "age": 32,
-      "id": 7
     }
   ],
   "products": [

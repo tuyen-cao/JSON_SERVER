@@ -14,7 +14,7 @@ const rules = auth.rewriter({
   '/posts/:category': '/posts?category=:category',
 })
 server.db = router.db;
-server.use(middlewares);
+//server.use(middlewares);
 server.use(auth);
 server.use(rules)
 server.use(router);

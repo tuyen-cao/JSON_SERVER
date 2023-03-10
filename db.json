@@ -27,6 +27,22 @@
       "lastname": "Monge",
       "age": 32,
       "id": 4
+    },
+    {
+      "email": "abb@a1.com",
+      "password": "$2a$10$qHPmDuv8HSvaLDfESHokjeMg3y5/SrQzja7IUnLPanvJA1dpJvdva",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 5
+    },
+    {
+      "email": "ab@a1.com",
+      "password": "$2a$10$zvKAIaOryHENwyccTkKjeOHQvP8HoWChAqFmvPZBk09yvgvXbrpum",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 6
     }
   ],
   "products": [

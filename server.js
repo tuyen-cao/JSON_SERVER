@@ -4,9 +4,19 @@ const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 
 const auth = require('json-server-auth');
+
+
+const rules = auth.rewriter({
+  // Permission rules
+  users: 600,
+  messages: 640,
+  // Other rules
+  '/posts/:category': '/posts?category=:category',
+})
 server.db = router.db;
 server.use(middlewares);
 server.use(auth);
+server.use(rules)
 server.use(router);
 
 server.listen(3500, () => {

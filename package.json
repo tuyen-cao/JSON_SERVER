@@ -4,6 +4,7 @@
   "description": "Deploy JSON Server to Vercel",
   "main": "server.js",
   "scripts": {
+    "start": "json-server-auth db.json --port 4500",
     "json-serve-auth": "json-server-auth db.json --port 4500"
   },
   "dependencies": {

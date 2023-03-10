@@ -19,8 +19,8 @@
   ],
   "rewrites": [
     {
-      "source": "/register",
-      "destination": "/db.json"
+      "src": "/register",
+      "dest": "/db.json"
     }
   ]
 }

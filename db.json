@@ -43,6 +43,14 @@
       "lastname": "Monge",
       "age": 32,
       "id": 6
+    },
+    {
+      "email": "ab@a2.com",
+      "password": "$2a$10$WYh9QM7D8JxRMgm90hfDIuedGTjWfI4.Mgz0XUmXQLDdCFRPpWzyu",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 7
     }
   ],
   "products": [
